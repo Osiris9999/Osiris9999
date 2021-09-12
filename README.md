@@ -7,7 +7,7 @@
 </a>
 </br>
 
-Hi I am [Osiris](https://osiris9999.github.io/), a rustacean and budding web developer from India. My passion is becoming a security professional and help my people have secure software. I really love contributing to open source and building softwares. I hope you like me.
+Hi I am [Osiris](https://osiris9999.github.io/) , a rustacean and budding web developer from India. My aim is to become a security professional and help my people have secure software. I really love contributing to open source and building softwares. I hope you like me.
 </br>
 
 **languages and tools:** 
