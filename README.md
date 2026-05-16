@@ -15,10 +15,10 @@ Hi I am [Osiris](https://osiris9999.github.io/) , a rustacean and budding web de
 ![GIT]( 	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-<a href="https://github.com/Osiris9999">
+<!-- <a href="https://github.com/Osiris9999">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Osiris9999&show_icons=true&include_all_commits=true&theme=chartreuse-dark&exclude_repo=TryHackMe,HTB,Pentesterlab,Pages,blog,Executable_Files,Insider" alt="Soumyani1's github stats" />
 </a>
 
 <a href="https://github.com/Osiris9999">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osiris9999&layout=compact&theme=chartreuse-dark&exclude_repo=TryHackMe,HTB,Pentesterlab,Pages,blog" />
-</a>
+</a> -->
